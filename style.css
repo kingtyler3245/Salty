@@ -1,0 +1,353 @@
+body{
+    background-color: #FAF8ED;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.topest-nav{
+    display: flex;
+    gap: 40px;
+}
+
+.top-nav{
+    margin-top: 25.5px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.logos{
+    height: 30px;
+    margin-top: 20px;
+}
+
+button{
+    background-color:  #FAF8ED;
+    border-radius: 20px;
+    border-color: #F66F4D;
+    margin-top: 14px;
+    height: 40px;
+    width: 140px;
+}
+
+.hero-section{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.heading{
+    margin-top: 90px;
+    font-size: 75px;
+    font-weight: 600;
+}
+
+.sub-head{
+    font-weight: 200;
+    margin-bottom: 50px;
+}
+
+.search-bar{
+
+    
+}
+
+.search-bar img{
+    
+}
+
+.images{
+    position: relative;
+}
+
+.man-image{
+    height: 600px;
+}
+
+.dubai-card{
+    height: 180px;
+    position: absolute;
+    bottom: 200px;
+    right: 400px;
+}
+
+.category{
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
+.arrows{
+    height: 50px;
+}
+
+.categ{
+    font-size: 60px;
+    font-weight: 450;
+}
+
+.cate{
+    display: flex;
+    justify-content: space-between;
+    height: 130px;
+}
+
+.catege{
+    margin-top: 65px;
+}
+
+.catimg{
+    display: flex;
+    gap: 30px;  
+}
+
+.categimg{
+    height: 300px;
+    padding-top: 60px;
+}
+
+.sec{
+margin-top: 200px;
+margin-left: 150px;
+margin-right: 150px;
+display: flex;
+gap: 130px;
+
+}
+
+.image-parent{
+    position: relative;
+}
+
+.image-manly{
+    height: 550px;
+}
+
+.image--manly{
+    height: 220px;
+    position: absolute;
+    left: -5%;
+    top: 50%;
+}
+
+.image---manly{
+    height: 200px;
+    position: absolute;
+    top: 73%;
+    right: 0%;
+    left: 50%;
+
+   
+}
+
+.second-submessage{
+    padding-top: 30px;
+}
+
+#p-head{
+    color: orangered;
+}
+
+#secondp-head{
+    font-size: 51px;
+    font-weight: 600;
+}
+
+.cardds{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-img{
+    height: 150px;
+}
+
+.third-sec{
+margin-left: 150px;
+margin-right: 150px;
+}
+
+.head-3{
+padding-top: 70px;
+font-size: 50px;
+font-weight: 450;
+}
+
+.third-secimages{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.third-images{
+    height: 240px;
+}
+
+.thirdsec-note{
+    font-size: 20px;
+    font-weight: 530;
+}
+
+.second-tags{
+  font-weight: 200;
+}
+
+.price{
+display: flex;
+justify-content: space-between;
+}
+
+.money{
+   font-weight: 600;
+   font-size: 25px;
+}
+
+.person{
+    font-weight: 300;
+}
+
+.first-button{
+background-color: black;
+border: black;
+color: white;
+}
+
+.second-button{
+border-color: black;
+color: black;
+background-color: #FAF8ED;
+}
+
+.div3{
+   border: 5px solid white;
+   border-radius: 10px;
+}
+
+.fourth-sec{
+margin-left: 150px;
+margin-right: 150px;
+}
+
+.fourth-h1{
+    text-align: center;
+}
+
+.fourth-heading{
+    text-align: center;
+}
+
+.tyler{
+display: flex;
+margin: auto;
+width: 50%;
+justify-content: space-between;
+} 
+
+.fourth-buttons{
+    border:1px solid black;
+    color: black;
+    background-color: #FAF8ED;
+    display: inline;
+    padding: 5px 15px;
+    border-radius: 20px;
+    
+} 
+
+.pics{
+ display: flex;
+ gap:5px;
+}
+
+.pic-child{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+}
+
+.pic-img{
+    margin: 5px;
+    padding: 10px;
+}
+
+.pic-child2{
+    display: flex;
+    flex-direction: row;
+}
+
+.pic-img2{
+    margin: 5px;
+    padding: 10px;
+}
+
+.fifth-sec{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fifth-head{
+    font-size: 60px;
+    padding-right: 200px;
+    font-weight: 500;
+}
+
+.fifth-body{
+background-color: white;
+margin-right: 150px;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.arrows1{
+    margin-right: 20px;
+}
+
+.last-section{
+   background-color: #FFD482;
+   margin-left: auto;
+   margin-right: auto;
+   width: 1170px;
+   height: 338px;
+   text-align: center;
+   margin-top: 100px;
+   border-radius: 20px;
+   padding-top: 70px;
+   position: relative;
+}
+
+.last-button{
+    height: 20px;
+}
+
+.last-input{
+    width: 450px;
+    height: 60px;
+    border-radius: 10px;
+    border-color: white;
+    font-weight: 100;
+}
+
+.last-img{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    right: 350;
+    bottom: 80;
+}
+
+footer{
+    margin-top: 200px;
+    margin-left: 150px;
+   margin-right: 150px;
+}
